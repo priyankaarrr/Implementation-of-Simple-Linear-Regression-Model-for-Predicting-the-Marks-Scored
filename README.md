@@ -12,7 +12,7 @@ To write a program to predict the marks scored by a student using the simple lin
 1. Store data in a structured format.
 2.Use a Simple Linear Regression model to fit the training data.
 3.Use the trained model to predict values for the test set.
-4. Evaluate performance using metrics like Mean Absolute Error and Root Mean Squared Error.
+4. Evaluate performance using metrics.
 ~~~
 
 ## Program:
