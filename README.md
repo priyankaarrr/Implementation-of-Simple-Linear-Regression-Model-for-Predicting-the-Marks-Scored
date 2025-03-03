@@ -29,9 +29,9 @@ df.head()
 ~~~
 
 ## Output:
-~~~
+
 ![image](https://github.com/user-attachments/assets/8d07ca80-4ce3-4e86-a33c-05290549f4e4)
-~~~
+
 df.tail()
 ## output
 ![image](https://github.com/user-attachments/assets/b3e46591-aa57-4d26-b9e9-c7b75c052188)
